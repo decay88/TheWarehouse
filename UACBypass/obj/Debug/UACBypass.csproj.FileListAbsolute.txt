@@ -1,0 +1,7 @@
+\\fs1.ad.ssis.nu\16jesu\Desktop\TheWarehouse-master\UACBypass\obj\Debug\UACBypass.csprojAssemblyReference.cache
+\\fs1.ad.ssis.nu\16jesu\Desktop\TheWarehouse-master\UACBypass\obj\Debug\UACBypass.csproj.CoreCompileInputs.cache
+\\fs1.ad.ssis.nu\16jesu\Desktop\TheWarehouse-master\UACBypass\bin\Debug\UACBypass.exe.config
+\\fs1.ad.ssis.nu\16jesu\Desktop\TheWarehouse-master\UACBypass\bin\Debug\UACBypass.exe
+\\fs1.ad.ssis.nu\16jesu\Desktop\TheWarehouse-master\UACBypass\bin\Debug\UACBypass.pdb
+\\fs1.ad.ssis.nu\16jesu\Desktop\TheWarehouse-master\UACBypass\obj\Debug\UACBypass.exe
+\\fs1.ad.ssis.nu\16jesu\Desktop\TheWarehouse-master\UACBypass\obj\Debug\UACBypass.pdb
